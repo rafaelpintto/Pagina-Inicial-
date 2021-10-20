@@ -43,7 +43,18 @@ Atualmente cursando MBA em Data Science e Analytics  e Ciência da Computação 
 - 📝 Veja meu <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:7317b45e-55ec-4aad-99c7-39a6ccd378f0" target="_blank">Currículo</a> para mais informações.
 
 <p>
- 
+ <p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelpintto&layout=compact&theme=graywhite&title_color=268bd2" alt="Rafael-Pinto" />
+</p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelpintto&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Rafael-Pinto" />
+</p>
+  
+  
+  
+  
+  
+  
 **Linguagens e ferramentas:**  
 
 <p align="left">
@@ -51,6 +62,7 @@ Atualmente cursando MBA em Data Science e Analytics  e Ciência da Computação 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"  alt="microsoftsqlserver" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaelpintto" alt="Rafael-Pinto" /> </p>
 
 
 </p>

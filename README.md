@@ -40,7 +40,7 @@ Atualmente cursando MBA em Data Science e Analytics  e Ciência da Computação 
   - Ler livros;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
 - 📫 Se quiser pode enviar um email para rafaelpintto@gmail.com
-- 📝 Veja meu <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:7317b45e-55ec-4aad-99c7-39a6ccd378f0" target="_blank">Currículo</a> para mais informações.
+- 📝 Veja meu <a href="https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:ef247435-9c54-48e5-979c-e5cf32861298" target="_blank">Currículo</a> para mais informações.
 
 <p>
  <p>
